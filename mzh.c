@@ -1,5 +1,5 @@
 #include "stdio.h"
-
+/*确实是全网最简单最易上手的*/
 int main()
 {
     int a=0,b=0;
